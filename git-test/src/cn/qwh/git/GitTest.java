@@ -12,5 +12,6 @@ public class GitTest {
 
     public void test() {
         System.out.println("测试方法!");
+        System.out.println("在master上修改一些东西!!");
     }
 }
