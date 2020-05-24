@@ -9,4 +9,8 @@ public class GitTest {
         System.out.println("Git...test......");
         System.out.println("Git...test......");
     }
+
+    public void test() {
+        System.out.println("测试方法!");
+    }
 }
